@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shadab Shaikh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Redis, MongoDb**
+- 🌱 I’m currently learning **Redis, AWS**
 
-- 💬 Ask me about **Node.js, Express.js**
+- 💬 Ask me about **Node.js, Express.js, JavaScript**
 
 - 📫 How to reach me **sshadabshaikh7703@gmail.com**
 
