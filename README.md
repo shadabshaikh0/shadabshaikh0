@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redis, AWS**
 
-- 💬 Ask me about **Node.js, Express.js, JavaScript**
+- 💬 Ask me about **Node.js, Express.js, JavaScript, Kotlin, Java, Spring Boot**
 
 - 📫 How to reach me **sshadabshaikh7703@gmail.com**
 
